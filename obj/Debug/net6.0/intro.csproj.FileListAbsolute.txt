@@ -1,0 +1,15 @@
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\bin\Debug\net6.0\intro.exe
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\bin\Debug\net6.0\intro.deps.json
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\bin\Debug\net6.0\intro.runtimeconfig.json
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\bin\Debug\net6.0\intro.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\bin\Debug\net6.0\ref\intro.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\bin\Debug\net6.0\intro.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\obj\Debug\net6.0\intro.csproj.AssemblyReference.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\obj\Debug\net6.0\intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\obj\Debug\net6.0\intro.AssemblyInfoInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\obj\Debug\net6.0\intro.AssemblyInfo.cs
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\obj\Debug\net6.0\intro.csproj.CoreCompileInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\obj\Debug\net6.0\intro.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\obj\Debug\net6.0\ref\intro.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\obj\Debug\net6.0\intro.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\intro\obj\Debug\net6.0\intro.genruntimeconfig.cache
